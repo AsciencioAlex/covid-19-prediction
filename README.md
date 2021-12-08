@@ -1,5 +1,7 @@
 # covid-19-prediction
 predicting covid-19 using covid-19 dataset and jupyter notebook
+
+
 Prediction and Monitoring of Covid-19 Using Machine Learning Algorithms
 
        ********************* SET UP *****************************
