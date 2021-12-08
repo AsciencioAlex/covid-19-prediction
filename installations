@@ -1,0 +1,15 @@
+#%pip install nodejs
+
+#%pip install jupyterlab "ipywidgets>=7.5"
+
+#%pip install npm
+
+# JupyterLab renderer support
+#!jupyter labextension install jupyterlab-plotly@4.8.2
+
+
+#%pip install statsmodels
+
+#%pip install pystan
+
+#%pip install fbprophet
