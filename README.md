@@ -19,7 +19,12 @@ Prediction and Monitoring of Covid-19 Using Machine Learning Algorithms
 
 #%pip install fbprophet
 
-*********** RUN *************
+
+
+********************************* RUN *********************************************************
+
 open Terminal or cmd
+
+
 type: jupyter notebook to lauch jupyter lab server
 
